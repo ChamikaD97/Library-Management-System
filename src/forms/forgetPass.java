@@ -1,5 +1,3 @@
-/*
- */
 package forms;
 
 import java.awt.Color;
